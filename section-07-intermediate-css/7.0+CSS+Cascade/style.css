@@ -3,10 +3,18 @@
 .box {
   background-color: blue;
   padding: 10px;
+  color: white;
+  padding: 10px;
+}uuuuuu
+
+.white-text {
+  border: 10px solid rgb(88, 24, 131);
+  padding: 20px;
+  margin: 10px
 }
 
 p {
-  color: yellow;
-  margin: 0;
-  padding: 0;
+  border: 10px solid rgb(88, 24, 131);
+  padding: 20px;
+  margin: 10px
 }
